@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.intra.vision-box.com:Frederico.Moreira/poc-cypress-webdriver-io.git"
+    "url": "git@github.com:fredmoreira/poc-cypress-webdriver-io.git"
   },
   "keywords": [
     "test",
