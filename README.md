@@ -13,7 +13,7 @@ APP used to create tests- [TodoMVC App](http://todomvc-app-for-testing.surge.sh/
 ### Setup
 
 ```bash
-  git clone https://git.intra.vision-box.com/Frederico.Moreira/poc-cypress-webdriver-io.git
+  git clone https:https://github.com/fredmoreira/poc-cypress-webdriver-io.git
   
   npm install
 ```
